@@ -24,9 +24,3 @@ This project involves a complete pipeline for analyzing and predicting heart dis
 - seaborn, matplotlib
 - scikit-learn
 
----
-
-## 🧪 How to Run
-
-```bash
-python heart_disease_analysis.py heart.csv
